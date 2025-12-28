@@ -1,5 +1,5 @@
 transformers
-transformers[sentencepeice]
+
 datasets
 sacrebleu
 rouge_score
@@ -18,3 +18,5 @@ ensure
 fastapi
 uvicorn
 Jinja2
+probotuf
+sentencepeice
