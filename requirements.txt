@@ -1,5 +1,5 @@
 transformers
-
+evaluate
 datasets
 sacrebleu
 rouge_score
@@ -20,3 +20,5 @@ uvicorn
 Jinja2
 probotuf
 sentencepeice
+
+-e .
